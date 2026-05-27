@@ -6,7 +6,7 @@ import io
 
 st.set_page_config(
     page_title="Barakah Roots",
-    page_icon="favicon.ico",  # Use the .ico file instead
+    page_icon="favicon.ico.png",  # Use the .ico file instead
     layout="wide",
     initial_sidebar_state="collapsed",
 )
